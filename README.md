@@ -11,15 +11,6 @@ using **Jetpack Compose** 🚀.
 
 <img width="90%" alt="Cover-Travel-App-KMM" src="https://github.com/Realtime-Coding/TravelAppKMM/assets/21146457/a3d06c1e-cfa8-4b4f-99e0-4bb8288a37c9">
 
-### 📱 Preview
-
-Currently, the app looks like this on platforms:
-
-#### ▶️ Android, IOS & Desktop
-
-https://drive.google.com/file/d/1aDrhqpvc4XUdEaO-6aBZrE6HRFglDnl_/view?usp=sharing
-
----
 
 ## Built with 
 
@@ -29,30 +20,6 @@ https://drive.google.com/file/d/1aDrhqpvc4XUdEaO-6aBZrE6HRFglDnl_/view?usp=shari
 - [Moko Resources](https://github.com/icerockdev/moko-resources): This is a Kotlin MultiPlatform library (and Gradle plugin) that provides access to the resources on macOS, iOS, Android the JVM and JS/Browser with the support of the default system localization.
 -  [Compose Image Loader](https://github.com/qdsfdhvh/compose-imageloader): Compose Image library for Kotlin Multiplatform.
 
-
-## TODOs
-
-### ✅ Completed
-- [x] Home screen UI.
-- [x] Destination Detail screen UI.
-- [x] Favorite Detail screen UI.
-- [x] Coil(Image loading from Url).
-- [x] Bottom Navigation Menu.
-- [x] Compose resources e-g images, strings and fonts.
-- [x] Voyager (Navigation).
-- [x] Cart Screen Design.
-- [x] CI/CD Configure for IOS, Android, MacOS, Window, Web.
-- [x] CI/CD generate artifacts to download
-- [x] CI/CD to publish web app on github pages
-
-### 🚧 Work in progress
-
-- [ ] Profile Screen Design.
-- [ ] Room setup for adding favorites.
-- [ ] Switch for dark/light theme.
-- [ ] Shifting content to github repo then fetch details through ktor client library.
-- [ ] MVVM Implementation
-- [ ] Testing
 
 ## Project structure 
 
@@ -82,17 +49,4 @@ for knowing the setup guidelines
     <img width="353" alt="Screenshot 2024-07-24 at 1 29 49 PM" src="https://github.com/user-attachments/assets/e423e531-ab38-4a79-b716-f02fd40b2660">
 
 
----
 
-## Contribute
-
-If you want to contribute to this library, you're always welcome!
-
-## Acknowledgements 
-
-- [Philipp Lackner - How to Share Resources in KMM (Strings, Images, etc.)](https://www.youtube.com/watch?v=xtWzpLtCuY0):
-  For understanding Share resources
-- [Fimga Design By Michelle Setiyanti](https://www.figma.com/community/file/1155051579579231831): For cloning the design into compose.
-
-## Want to create Project in KMM? Step by Step Documentations
-Notion file: [Documentations](https://shahzadafridi.notion.site/KMM-Journey-b1c86a41733c4b53bd459c8d10fb0a45?pvs=4)
